@@ -332,4 +332,4 @@ const CONFIG = new Config(default_configuration, palette);
 
 const root = document.querySelector(":root");
 root.style.setProperty("--bg", palette.mantle);
-root.style.setProperty("--accent", palette.green);
+root.style.setProperty("--accent", palette.mauve);
