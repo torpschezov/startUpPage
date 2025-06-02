@@ -113,7 +113,7 @@ const default_configuration = {
             },
             {
               name: "Legion",
-              url: "https://mil.in.ua",
+              url: "https://ildu.com.ua",
               icon: "laurel-wreath",
               icon_color: palette.peach,
             },
