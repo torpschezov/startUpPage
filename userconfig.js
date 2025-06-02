@@ -114,7 +114,7 @@ const default_configuration = {
             {
               name: "Legion",
               url: "https://mil.in.ua",
-              icon: "wheat",
+              icon: "laurel-wreath",
               icon_color: palette.peach,
             },
             {
@@ -233,7 +233,7 @@ const default_configuration = {
       ],
     },
     {
-      name: "fun",
+      name: "chi ll",
       background_url: "src/img/banners/banner_13.gif",
       categories: [
         {
