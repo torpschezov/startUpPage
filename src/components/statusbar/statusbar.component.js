@@ -117,7 +117,7 @@ class Statusbar extends Component {
       #tabs ul li[active]:nth-child(5) ~ li:last-child { margin: 0 0 0 140px; }
 
       #tabs ul li[active]:nth-child(1) ~ li:last-child {
-          --flavour: ${CONFIG.palette.green};
+          --flavour: ${CONFIG.palette.mauve};
       }
 
       #tabs ul li[active]:nth-child(2) ~ li:last-child {
@@ -125,7 +125,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li[active]:nth-child(3) ~ li:last-child {
-          --flavour: ${CONFIG.palette.red};
+          --flavour: ${CONFIG.palette.pink};
       }
 
       #tabs ul li[active]:nth-child(4) ~ li:last-child {
@@ -133,7 +133,7 @@ class Statusbar extends Component {
       }
 
       #tabs ul li[active]:nth-child(5) ~ li:last-child {
-          --flavour: ${CONFIG.palette.mauve};
+          --flavour: ${CONFIG.palette.red};
       }
 
       .widgets {
