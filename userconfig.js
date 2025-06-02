@@ -41,8 +41,8 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "aevstiel",
-      background_url: "src/img/banners/banner_09.gif",
+      name: "whatse",
+      background_url: "src/img/banners/banner_14.gif",
       categories: [
         {
           name: "bookmarks",
