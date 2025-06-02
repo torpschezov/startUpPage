@@ -215,7 +215,7 @@ const default_configuration = {
       ],
     },
     {
-      name: "chi ll",
+      name: "leisure",
       background_url: "src/img/banners/banner_08.gif",
       categories: [
         {
