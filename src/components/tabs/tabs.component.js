@@ -188,7 +188,7 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(1) {
-          --flavour: ${CONFIG.palette.green};
+          --flavour: ${CONFIG.palette.mauve};
       }
 
       .categories ul:nth-child(2) {
@@ -196,14 +196,14 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(3) {
-          --flavour: ${CONFIG.palette.red};
+          --flavour: ${CONFIG.palette.pink};
       }
 
       .categories ul:nth-child(4) {
           --flavour: ${CONFIG.palette.blue};
       }
       .categories ul:nth-child(5) {
-          --flavour: ${CONFIG.palette.mauve};
+          --flavour: ${CONFIG.palette.red};
       }
 
       .categories ul .links {
