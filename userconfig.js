@@ -19,8 +19,8 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "UA",
-      timezone: "Europe/Kyiv",
+      label: "ALX",
+      timezone: "Africa/Cairo",
       format: "h:i",
       icon_color: palette.peach,
     },
@@ -41,7 +41,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "aevstiel",
       background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
