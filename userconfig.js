@@ -211,12 +211,6 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "Uber Engineering",
-              url: "https://www.uber.com/en-GB/blog/london/engineering",
-              icon: "brand-uber",
-              icon_color: palette.pink,
-            },
-            {
               name: "Apple Wiki",
               url: "https://theapplewiki.com/wiki",
               icon: "brand-apple",
