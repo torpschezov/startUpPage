@@ -114,7 +114,7 @@ const default_configuration = {
             {
               name: "Legion",
               url: "https://ildu.com.ua",
-              icon: "laurel-wreath",
+              icon: "tank",
               icon_color: palette.peach,
             },
             {
@@ -219,7 +219,7 @@ const default_configuration = {
             {
               name: "Champagne",
               url: "https://champagne.pages.dev",
-              icon: "glass-champagne",
+              icon: "skull",
               icon_color: palette.pink,
             },
           ],
