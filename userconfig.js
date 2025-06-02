@@ -129,7 +129,7 @@ const default_configuration = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/banner_07.gif",
+      background_url: "src/img/banners/banner_15.gif",
       categories: [
         {
           name: "development",
@@ -216,14 +216,14 @@ const default_configuration = {
     },
     {
       name: "leisure",
-      background_url: "src/img/banners/banner_08.gif",
+      background_url: "src/img/banners/banner_13.gif",
       categories: [
         {
           name: "social media",
           links: [
             {
-              name: "telegram",
-              url: "https://web.telegram.org",
+              name: "instagram",
+              url: "https://www.instagram.com",
               icon: "brand-telegram",
               icon_color: palette.green,
             },
