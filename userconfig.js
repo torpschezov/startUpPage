@@ -107,7 +107,7 @@ const default_configuration = {
           links: [
             {
               name: "Defcon",
-              url: "https://www.pravda.com.ua",
+              url: "https://www.defconlevel.com",
               icon: "alert-hexagon",
               icon_color: palette.mauve,
             },
@@ -119,7 +119,7 @@ const default_configuration = {
             },
             {
               name: "Finance",
-              url: "https://kutok.io",
+              url: "https://finance.yahoo.com",
               icon: "chart-dots-2",
               icon_color: palette.pink,
             },
@@ -131,7 +131,7 @@ const default_configuration = {
             },
             {
               name: "Translate",
-              url: "https://www.village.com.ua",
+              url: "https://translate.google.com",
               icon: "language-katakana",
               icon_color: palette.red,
             },
