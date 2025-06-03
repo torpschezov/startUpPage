@@ -94,12 +94,6 @@ const default_configuration = {
               icon: "cloud-storm",
               icon_color: palette.blue,
             },
-            {
-              name: "Drive",
-              url: "https://drive.google.com/drive/home",
-              icon: "brand-google-drive",
-              icon_color: palette.blue,
-            },
           ],
         },
         {
