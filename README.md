@@ -1,19 +1,19 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin <a href="https://pivoshenko.github.io/catppuccin-startpage">Startpage</a>
+  ElectroCat <a href="https://aevstiel.github.io/electrocat">Startpage</a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
   <a href="https://github.com/pivoshenko/catppuccin-startpage/stargazers">
-    <img src="https://img.shields.io/github/stars/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=starship&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41">
+    <img src="https://img.shields.io/github/stars/aevstiel/electrocat?style=for-the-badge&logo=starship&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41">
   </a>
   <a href="https://github.com/pivoshenko/catppuccin-startpage/issues">
-    <img src="https://img.shields.io/github/issues/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=gitbook&color=fab387&logoColor=D9E0EE&labelColor=302D41">
+    <img src="https://img.shields.io/github/issues/aevstiel/electrocat?style=for-the-badge&logo=gitbook&color=fab387&logoColor=D9E0EE&labelColor=302D41">
   </a>
   <a href="https://github.com/pivoshenko/catppuccin-startpage/contributors">
-    <img src="https://img.shields.io/github/contributors/pivoshenko/catppuccin-startpage?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
+    <img src="https://img.shields.io/github/contributors/aevstiel/electrocat?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 
 # 🪴 Overview
 
-A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This startpage is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined the page to match my [`dotfiles`](https://github.com/pivoshenko/dotfiles); feel free to explore them as well.
+A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This is a fork of [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) startpage, which is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined Pivoshenko's page to match my [`dotfiles`](https://github.com/aevstiel/amethyst); feel free to explore them as well.
 
 ## 🧠 Main Principles
 
@@ -141,3 +141,9 @@ For full documentation of clock format options, [see](docs/CLOCK.md).
 | banner_17                                           | banner_18                                           |
 | --------------------------------------------------- | --------------------------------------------------- |
 | <img src="src/img/banners/banner_17.gif" width=175> | <img src="src/img/banners/banner_18.gif" width=175> |
+
+# 🇺🇦 A Word
+
+This startpage was made by a Ukranian, and nothing, even software, is free from politics.
+I'd like to show my support for Ukraine against Russia's brutal invasion and war crimes in this beautiful country.
+I know I can't make a big difference, but everything counts, so please consider donating to the [President's Intiative](https://u24.gov.ua/) and the [International Legion](https://ildu-support.kittysoloma.org/en/). Thank you, and slava Ukraini.
