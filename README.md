@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/preview.png"/>
-</p>
-
 # 🪴 Overview
 
 A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This is a fork of [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) startpage, which is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined Pivoshenko's page to match my [`dotfiles`](https://github.com/aevstiel/amethyst); feel free to explore them as well.
