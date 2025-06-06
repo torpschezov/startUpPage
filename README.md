@@ -1,6 +1,5 @@
 <h3 align="center">
   ElectroCat <a href="https://aevstiel.github.io/electrocat">Startpage</a>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
@@ -74,11 +73,6 @@ You can use different add-ons or extensions for this.
 - If you use Chromium-based browsers (Brave / Chrome): [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
 ### 🔎 Search
-
-<p align="center">
-  <img src="assets/preview._searchbar.png"/>
-</p>
-
 
 The search dialogue allows you to display a search bar with various search engines defined in the configuration. To run search dialogue, simply press `s` and type your query.
 
