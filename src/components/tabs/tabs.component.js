@@ -188,22 +188,22 @@ class Tabs extends Component {
       }
 
       .categories ul:nth-child(1) {
-          --flavour: ${CONFIG.palette.mauve};
+          --flavour: ${CONFIG.palette.red};
       }
 
       .categories ul:nth-child(2) {
-          --flavour: ${CONFIG.palette.peach};
+          --flavour: ${CONFIG.palette.mauve};
       }
 
       .categories ul:nth-child(3) {
-          --flavour: ${CONFIG.palette.pink};
+          --flavour: ${CONFIG.palette.flamingo};
       }
 
       .categories ul:nth-child(4) {
-          --flavour: ${CONFIG.palette.blue};
+          --flavour: ${CONFIG.palette.lavender};
       }
       .categories ul:nth-child(5) {
-          --flavour: ${CONFIG.palette.red};
+          --flavour: ${CONFIG.palette.peach};
       }
 
       .categories ul .links {
