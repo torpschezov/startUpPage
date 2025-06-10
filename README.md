@@ -16,7 +16,7 @@
 
 # 🪴 Overview
 
-A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette). Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This is a fork of [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) startpage, which is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined Pivoshenko's page to match my [`dotfiles`](https://github.com/aevstiel/amethyst); feel free to explore them as well.
+A minimalistic and customisable startpage featuring the [**Catppuccin palettes**](https://catppuccin.com/palette) and my own Lycia palette. Designed for both aesthetics and functionality, with seamless hosting on GitHub Pages. This is a fork of [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) startpage, which is based on [`dawn`](https://github.com/b-coimbra/dawn), which offers additional functionality. I have refined Pivoshenko's page to match my [`dotfiles`](https://github.com/aevstiel/amethyst); feel free to explore them as well.
 
 ## 🧠 Main Principles
 
@@ -31,6 +31,7 @@ A minimalistic and customisable startpage featuring the [**Catppuccin palettes**
 - Frappé
 - Macchiato
 - Mocha
+- Lycia
 
 ## ⭐ Features
 
