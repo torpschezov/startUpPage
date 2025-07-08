@@ -83,9 +83,9 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "Sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
+              name: "Docs",
+              url: "https://docs.google.com/",
+              icon: "file-text",
               icon_color: palette.flamingo,
             },
             {
