@@ -37,7 +37,7 @@ const default_configuration = {
   },
   disabled: [],
   localIcons: false,
-  fastlink: "https://www.github.com/Aevstiel",
+  fastlink: "https://github.com/torpschezov",
   openLastVisitedTab: true,
   tabs: [
     {
