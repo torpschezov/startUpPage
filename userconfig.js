@@ -48,14 +48,14 @@ const default_configuration = {
           name: "bookmarks",
           links: [
             {
-              name: "Arch Wiki",
-              url: "https://wiki.archlinux.org/",
+              name: "Wikipedia",
+              url: "https://en.wikipedia.org/wiki/Main_Page",
               icon: "brand-wikipedia",
               icon_color: palette.red,
             },
             {
-              name: "Apple",
-              url: "https:///account.apple.com/",
+              name: "Ebay",
+              url: "https://www.ebay.com/",
               icon: "brand-apple",
               icon_color: palette.mauve,
             },
