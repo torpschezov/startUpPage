@@ -10,7 +10,7 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "Alexandria",
+    location: "Philadelphia",
     scale: "C",
   },
   clock: {
@@ -19,8 +19,8 @@ const default_configuration = {
   },
   additionalClocks: [
     {
-      label: "ALX",
-      timezone: "Africa/Cairo",
+      label: "PHL",
+      timezone: "Eastern",
       format: "h:i",
       icon_color: palette.mauve,
     },
@@ -41,7 +41,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "astiel",
+      name: "torpschez",
       background_url: "src/img/banners/lycia-2.jpg",
       categories: [
         {
