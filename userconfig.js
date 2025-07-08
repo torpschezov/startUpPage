@@ -42,7 +42,7 @@ const default_configuration = {
   tabs: [
     {
       name: "torps",
-      background_url: "src/img/banners/Aurora1.jpg",
+      background_url: "src/img/banners/Aurora1crop.jpg",
       categories: [
         {
           name: "bookmarks",
