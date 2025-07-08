@@ -41,7 +41,7 @@ const default_configuration = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "torpschez",
+      name: "torps",
       background_url: "src/img/banners/lycia-2.jpg",
       categories: [
         {
