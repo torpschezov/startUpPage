@@ -135,7 +135,7 @@ const default_configuration = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/lycia-3.jpg",
+      background_url: "src/img/banners/mountain.jpg",
       categories: [
         {
           name: "development",
