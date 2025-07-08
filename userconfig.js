@@ -77,9 +77,9 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "Proton Mail",
-              url: "https://calendar.google.com",
-              icon: "mailbox",
+              name: "Emory Canvas",
+              url: "https://canvas.emory.edu/",
+              icon: "brand-vsco",
               icon_color: palette.mauve,
             },
             {
