@@ -56,7 +56,7 @@ const default_configuration = {
             {
               name: "Ebay",
               url: "https://www.ebay.com/",
-              icon: "brand-apple",
+              icon: "letter-e-small",
               icon_color: palette.mauve,
             },
             {
