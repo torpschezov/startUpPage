@@ -89,9 +89,9 @@ const default_configuration = {
               icon_color: palette.flamingo,
             },
             {
-              name: "Filen",
-              url: "https://filen.io",
-              icon: "cloud-storm",
+              name: "Drive",
+              url: "https://drive.google.com/drive/u/0/",
+              icon: "brand-google-drive",
               icon_color: palette.lavender,
             },
           ],
@@ -100,27 +100,27 @@ const default_configuration = {
           name: "media",
           links: [
             {
-              name: "Defcon",
-              url: "https://www.defconlevel.com",
-              icon: "alert-hexagon",
+              name: "Youtube",
+              url: "https://www.youtube.com/",
+              icon: "brand-youtube",
               icon_color: palette.red,
             },
             {
-              name: "Legion",
-              url: "https://ildu.com.ua",
-              icon: "tank",
+              name: "Discord",
+              url: "https://discord.com/channels/@me",
+              icon: "brand-discord",
               icon_color: palette.mauve,
             },
             {
               name: "Finance",
-              url: "https://finance.yahoo.com",
+              url: "https://liveuamap.com/",
               icon: "chart-dots-2",
               icon_color: palette.flamingo,
             },
             {
-              name: "Грунт",
+              name: "LiveUAMap",
               url: "https://grnt.media",
-              icon: "eye-bolt",
+              icon: "swords",
               icon_color: palette.lavender,
             },
             {
@@ -161,30 +161,30 @@ const default_configuration = {
           ],
         },
         {
-          name: "challenges",
+          name: "OSINT",
           links: [
             {
-              name: "Kaggle",
-              url: "https://www.kaggle.com",
-              icon: "brain",
+              name: "Osint Framework",
+              url: "https://osintframework.com/",
+              icon: "binoculars",
               icon_color: palette.red,
             },
             {
-              name: "Leetcode",
-              url: "https://leetcode.com",
-              icon: "code-plus",
+              name: "Wigle",
+              url: "https://wigle.net/",
+              icon: "wifi",
               icon_color: palette.mauve,
             },
             {
-              name: "Exercism",
-              url: "https://exercism.org",
-              icon: "code-minus",
+              name: "Yandex",
+              url: "https://yandex.com/",
+              icon: "brand-yandex",
               icon_color: palette.flamingo,
             },
             {
-              name: "Chess",
-              url: "https://chess.com",
-              icon: "chess",
+              name: "Shodan",
+              url: "https://www.shodan.io/",
+              icon: "letter-s",
               icon_color: palette.lavender,
             },
           ],
@@ -193,9 +193,9 @@ const default_configuration = {
           name: "resources",
           links: [
             {
-              name: "Debian Wiki",
-              url: "https://wiki.debian.org",
-              icon: "brand-debian",
+              name: "Arch Wiki",
+              url: "https://wiki.archlinux.org/title/Main_page",
+              icon: "navigation-search",
               icon_color: palette.red,
             },
             {
@@ -221,7 +221,7 @@ const default_configuration = {
       ],
     },
     {
-      name: "chi ll",
+      name: "stuff",
       background_url: "src/img/banners/lycia-1.jpg",
       categories: [
         {
