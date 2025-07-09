@@ -119,7 +119,7 @@ const default_configuration = {
             },
             {
               name: "LiveUAMap",
-              url: "https://grnt.media",
+              url: "https://liveuamap.com/",
               icon: "swords",
               icon_color: palette.lavender,
             },
