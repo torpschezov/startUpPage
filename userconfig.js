@@ -113,7 +113,7 @@ const default_configuration = {
             },
             {
               name: "Finance",
-              url: "https://liveuamap.com/",
+              url: "https://finance.yahoo.com/",
               icon: "chart-dots-2",
               icon_color: palette.flamingo,
             },
