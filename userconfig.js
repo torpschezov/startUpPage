@@ -60,8 +60,8 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "Lyra",
-              url: "https:///lyra.it.com/",
+              name: "DeepSeek",
+              url: "https://chat.deepseek.com/",
               icon: "flare",
               icon_color: palette.flamingo,
             },
