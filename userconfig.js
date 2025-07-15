@@ -222,32 +222,32 @@ const default_configuration = {
     },
     {
       name: "stuff",
-      background_url: "src/img/banners/lycia-1.jpg",
+      background_url: "src/img/banners/aurora2.jpg",
       categories: [
         {
-          name: "social media",
+          name: "Christianity",
           links: [
             {
-              name: "Instagram",
-              url: "https://www.instagram.com",
-              icon: "brand-instagram",
+              name: "Bible",
+              url: "https://www.biblegateway.com/",
+              icon: "bible",
               icon_color: palette.red,
             },
             {
-              name: "Facebook",
-              url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              name: "RZ",
+              url: "https://www.youtube.com/@redeemedzoomer6053",
+              icon: "cross",
               icon_color: palette.mauve,
             },
             {
-              name: "Reddit",
-              url: "https://www.reddit.com/r/unixporn",
+              name: "PNCC",
+              url: "https://www.newtownchurchpa.org/",
               icon: "brand-reddit",
               icon_color: palette.flamingo,
             },
             {
-              name: "Dread",
-              url: "https://www.reddit.com/r/unixporn",
+              name: "Protestant Apologetics",
+              url: "https://www.youtube.com/playlist?list=PL-6iSAtvQ68g_tRBRFoDkVmwHVDWuPqan",
               icon: "shield-checkered",
               icon_color: palette.lavender,
             },
@@ -269,7 +269,7 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "Epic Games",
+              name: "Paradox",
               url: "https://store.epicgames.com",
               icon: "brand-fortnite",
               icon_color: palette.flamingo,
@@ -286,9 +286,9 @@ const default_configuration = {
           name: "multimedia",
           links: [
             {
-              name: "1Shows",
-              url: "https://www.1shows.live",
-              icon: "brand-funimation",
+              name: "Movies",
+              url: "https://github.com/7-Alternatives-to-123Movies-That-Work",
+              icon: "device-tv-old",
               icon_color: palette.red,
             },
             {
@@ -298,9 +298,9 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "Genesis",
-              url: "https://libgen.st/",
-              icon: "book",
+              name: "Duolinguo",
+              url: "https://www.duolingo.com/learn",
+              icon: "language",
               icon_color: palette.flamingo,
             },
             {
