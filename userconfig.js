@@ -222,7 +222,7 @@ const default_configuration = {
     },
     {
       name: "stuff",
-      background_url: "src/img/banners/aurora2.jpg",
+      background_url: "src/img/banners/aurora2.png",
       categories: [
         {
           name: "Christianity",
