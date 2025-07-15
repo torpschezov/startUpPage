@@ -1,5 +1,5 @@
 <h3 align="center">
-  ElectroCat <a href="https://aevstiel.github.io/electrocat">Startpage</a>
+  startUpPage <a href="https://torpschezov.github.io/startUpPage/">Startpage</a>
 </h3>
 
 <p align="center">
