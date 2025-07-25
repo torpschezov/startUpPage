@@ -287,7 +287,7 @@ const default_configuration = {
           links: [
             {
               name: "Movies",
-              url: "https://github.com/7-Alternatives-to-123Movies-That-Work",
+              url: "https://bmovies.co/",
               icon: "device-tv-old",
               icon_color: palette.red,
             },
