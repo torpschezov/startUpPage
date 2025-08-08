@@ -65,6 +65,12 @@ const default_configuration = {
               icon: "flare",
               icon_color: palette.flamingo,
             },
+            {
+              name: "Monkey Type",
+              url: "https://monkeytype.com/",
+              icon: "keyboard",
+              icon_color: palette.lavender,
+            },
           ],
         },
         {
