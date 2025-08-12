@@ -165,10 +165,10 @@ const default_configuration = {
               icon_color: palette.flamingo,
             },
             {
-              name: "Internet Speed Test",
+              name: "Speed Test",
               url: "https://www.speedtest.net/",
               icon: "wifi",
-              icon_color: palette.flamingo,
+              icon_color: palette.lavender,
             },
           ],
         },
