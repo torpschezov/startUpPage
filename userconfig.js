@@ -178,7 +178,7 @@ const default_configuration = {
             {
               name: "Osint Framework",
               url: "https://osintframework.com/",
-              icon: "binoculars",
+              icon: "search",
               icon_color: palette.red,
             },
             {
