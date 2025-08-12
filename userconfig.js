@@ -164,6 +164,12 @@ const default_configuration = {
               icon: "brand-stackoverflow",
               icon_color: palette.flamingo,
             },
+            {
+              name: "Internet Speed Test",
+              url: "https://www.speedtest.net/",
+              icon: "wifi",
+              icon_color: palette.flamingo,
+            },
           ],
         },
         {
@@ -178,7 +184,7 @@ const default_configuration = {
             {
               name: "Wigle",
               url: "https://wigle.net/",
-              icon: "wifi",
+              icon: "router",
               icon_color: palette.mauve,
             },
             {
