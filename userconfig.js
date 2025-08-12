@@ -281,9 +281,9 @@ const default_configuration = {
               icon_color: palette.mauve,
             },
             {
-              name: "Paradox",
-              url: "https://store.epicgames.com",
-              icon: "brand-fortnite",
+              name: "Hearts of Iron IV",
+              url: "https://steamcommunity.com/app/394360/workshop/",
+              icon: "armchair-2",
               icon_color: palette.flamingo,
             },
             {
