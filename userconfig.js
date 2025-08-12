@@ -141,7 +141,7 @@ const default_configuration = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/mountain.jpg",
+      background_url: "src/img/banners/whitemount.jpg",
       categories: [
         {
           name: "development",
@@ -234,7 +234,7 @@ const default_configuration = {
     },
     {
       name: "stuff",
-      background_url: "src/img/banners/aurora2.jpg",
+      background_url: "src/img/banners/aurora3.jpg",
       categories: [
         {
           name: "Christianity",
