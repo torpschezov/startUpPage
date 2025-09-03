@@ -83,8 +83,8 @@ const default_configuration = {
               icon_color: palette.red,
             },
             {
-              name: "Emory Canvas",
-              url: "https://canvas.emory.edu/",
+              name: "Canvas",
+              url: "https://councilrock.instructure.com/",
               icon: "brand-vsco",
               icon_color: palette.mauve,
             },
